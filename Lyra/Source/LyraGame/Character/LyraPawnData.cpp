@@ -8,8 +8,6 @@ ULyraPawnData::ULyraPawnData(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)
 {
 	PawnClass = nullptr;
-
-	//tmp
 	//InputConfig = nullptr;
 	//DefaultCameraMode = nullptr;
 }
